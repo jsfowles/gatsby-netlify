@@ -3,8 +3,6 @@ import Link from 'gatsby-link'
 
 export default class SecondPage extends React.Component {
   render() {
-    const stuff = this.props.data.us.edges
-    { console.log(this.stuff)}
     return (
     <div>
       <h1>Hye</h1>
